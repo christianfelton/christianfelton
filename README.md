@@ -7,7 +7,7 @@
 - <b>Tableau</b>
   - [Gamers' Arena Project](https://github.com/christianfelton/Tableau-Projects)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [FoodHub Project](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   
 <h2>📚 Certifications</h2>
   - <b>Data Analytics Certificate Course | University of Texas at Austin </b>
