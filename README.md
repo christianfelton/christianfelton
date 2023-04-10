@@ -5,7 +5,7 @@
 - <b>SQL</b>
   - [New Wheels Project](https://github.com/christianfelton/SQL-Project)
 - <b>Tableau</b>
-  - [Gamers' Arena Project](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Gamers' Arena Project](https://github.com/christianfelton/Tableau-Projects)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   
