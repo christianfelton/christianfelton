@@ -3,11 +3,11 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>SQL</b>
-  - [New Wheels Project](https://github.com/christianfelton/SQL-Project)
+  - [New Wheels Case Study](https://github.com/christianfelton/SQL-Project)
 - <b>Tableau</b>
-  - [Gamers' Arena Project](https://github.com/christianfelton/Tableau-Projects)
+  - [Gamers' Arena Case Study](https://github.com/christianfelton/Tableau-Projects)
 - <b>Python</b>
-  - [FoodHub Project](https://github.com/christianfelton/Python-Projects)
+  - [FoodHub Order Analysis](https://github.com/christianfelton/Python-Projects)
   
 <h2>📚 Certifications</h2>
   - <b>Data Analytics Certificate Course | University of Texas at Austin </b>
