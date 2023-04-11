@@ -10,10 +10,13 @@
   - [FoodHub Order Analysis](https://github.com/christianfelton/Python-Projects)
   
 <h2>📚 Certifications</h2>
+  
   - <b>Data Analytics Certificate Course | University of Texas at Austin </b>
 
 <h2>📝 Communication </h2>
-  - <b>Communication Examples</b>
+  
+- <b>Communication Examples</b>
+  
   - (https://github.com/christianfelton/SQL-Project](https://github.com/christianfelton/Communication)
   
 <h2> 🤳 Connect with me:</h2>
