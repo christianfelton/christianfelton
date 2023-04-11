@@ -12,7 +12,7 @@
 <h2>📚 Certifications</h2>
   - <b>Data Analytics Certificate Course | University of Texas at Austin </b>
 
-  <h2>📝 Speaking</h2>
+  <h2>📝 Public Speaking, Storytelling, and Explaining </h2>
   
 <h2> 🤳 Connect with me:</h2>
 
